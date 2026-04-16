@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# system files
+Thumbs.db
+
+# editor folders (optional but common)
+.vscode/
+.idea/
+
+# logs (just in case)
+*.log
